@@ -14,6 +14,7 @@
             }
         ]
     },
+    
     {
         "id": "20260705",
         "date": "2026-07-05",
@@ -31,13 +32,14 @@
         ]
     },
     {
-        "id": "20260617",
-        "date": "2026-06-17",
-        "title": "Website Launch",
+        "id": "20260624",
+        "date": "2026-06-24",
+        "title": "Berlin Tournament Success",
         "body": [
-            "We’re delighted to launch the new Stuttgart GAA website!",
-            "We’ll be adding more content over the coming weeks, so be sure to check back regularly for the latest updates.",
-            "Thanks for visiting, and welcome to Stuttgart GAA!"
-        ]
+            "We joined up with Vienna Gales GAA for a fantastic weekend of football in Berlin.",
+            "After a great day of competition, the Men’s team came away as Shield winners!",
+            "Most importantly, fair play to all our players who battled through some seriously difficult conditions,and showed great resilience, teamwork and spirit throughout the day."
+       ]
     }
+
 ]
